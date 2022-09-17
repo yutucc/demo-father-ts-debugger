@@ -1,23 +1,14 @@
-# 
+> demo 项目，演示使用 [ts-node](https://github.com/TypeStrong/ts-node) 库协助编译，然后再使用 vscode 调试代码的方法
 
-[![NPM version](https://img.shields.io/npm/v/.svg?style=flat)](https://npmjs.org/package/)
-[![NPM downloads](http://img.shields.io/npm/dm/.svg?style=flat)](https://npmjs.org/package/)
+详情可见：[《浅谈在 vscode 中调试 typescript 的小坑》]()
 
-## Install
-
-```bash
-$ yarn install
+## 安装依赖
+```
+yarn install
 ```
 
-```bash
-$ npm run dev
-$ npm run build
+or
+
 ```
-
-## Options
-
-TODO
-
-## LICENSE
-
-MIT
+npm install
+```
